@@ -1,7 +1,7 @@
 #include <iostream>
 int main()
 {
-int age = 20;
+int age = 2000000;
 double weight = 72.0; // kg
 double height = 1.80; // m
 double bmi= weight / (height * height);

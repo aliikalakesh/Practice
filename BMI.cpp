@@ -3,7 +3,7 @@ int main()
 {
 int age;
 float weight, height;
-std::cout << "Enter age: ";
+std::cout << "Enter age:     ";
 std::cin >> age;
 std::cout << "Enter weight (kg): ";
 std::cin >> weight;
